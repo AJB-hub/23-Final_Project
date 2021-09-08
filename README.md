@@ -35,6 +35,7 @@ Steve: Repo, Readme, and ML Coding <br>
 <br>
 **Programs/Libraries Used** <br>
 •	Pandas <br>
+•	Numpy <br>
 •	Java Script <br>
 •	HTML/CSS <br>
 •	Plotly <br>
