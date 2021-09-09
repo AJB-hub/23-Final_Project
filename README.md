@@ -1,5 +1,6 @@
 # 23-Final_Project
 
+https://kidik425.github.io/23-Final_Project/index.html
 
  ![Flowchart](/Flowchart.png)
 
@@ -34,6 +35,7 @@ Steve: Repo, Readme, and ML Coding <br>
 <br>
 **Programs/Libraries Used** <br>
 •	Pandas <br>
+•	Numpy <br>
 •	Java Script <br>
 •	HTML/CSS <br>
 •	Plotly <br>
