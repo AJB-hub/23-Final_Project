@@ -1,4 +1,5 @@
-# 23-Final_Project
+# Dispensary Location Estimator
+A ML model which predicts ideal dispensary locations by zip code census data for California cities.
 
 https://kidik425.github.io/23-Final_Project/index.html
 
